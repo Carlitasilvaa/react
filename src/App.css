@@ -4,11 +4,15 @@
   padding: 2rem;
   text-align: center;
 }
-.navbar{
-  display: flex;
-  width: 800px;
+.nav{
+ display: block;
 
 }
+.productos{
+  display: block;
+
+}
+
 body {
   /* En tu archivo CSS */
 
@@ -21,7 +25,7 @@ body {
   width: 100%; /* Ancho deseado */
   max-width: 1500px; /* Ancho máximo */
   margin: 0 auto; /* Margen automático para centrar horizontalmente */
-  padding-bottom: 180%;
+
 }
 .subtitulo{
   margin: 50px;
