@@ -4,8 +4,10 @@
   padding: 2rem;
   text-align: center;
 }
-.nav{
- display: block;
+.navbar{
+ display: flex;
+ justify-content: space-between;
+
 
 }
 .productos{
